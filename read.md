@@ -12,3 +12,5 @@ Adicionales:
 Comunicación con la API Open Exchange Rates que retorna los nombres de las monedas.
 Consumir los nombres de las monedas localmente, si no existe el documento, importarlo desde Open Exchange Rates.
 
+video
+https://youtu.be/6bBY4h2xB5U
